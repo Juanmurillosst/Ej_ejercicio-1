@@ -10,5 +10,5 @@ if b>=a and b>=c:
 if c >=a and c>=b:
     maximo=c
 
-print("El maximo es :  ", maximo)
-# modificacion de prueba para ehercicio 1 de git
+print("El maximo es :  ", maximo + c)
+# se modifico maximo agregando + c
