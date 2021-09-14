@@ -10,5 +10,5 @@ if b>=a and b>=c:
 if c >=a and c>=b:
     maximo=c
 
-print("El maximo es :  ", maximo +c )
+print("El maximo es :  ", maximo)
  
